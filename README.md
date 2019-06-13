@@ -39,6 +39,10 @@
   ```
 * Please submit your kata in the bundle format.
 
+
+##Added a little comment here to test GIT
+
+
 ## Available Kata's
 
 * [Bowling](http://codingdojo.org/kata/Bowling/) -- [Secondary Link](https://github.com/jonschoning/codingdojo/blob/master/html/kataBowling.html)
